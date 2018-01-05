@@ -1,0 +1,45 @@
+{
+
+  "sub_payment_list": [
+    {
+      "update_id": null,
+      "payment_type_name": "货款",
+      "create_time": null,
+      "payment_amount": 9477000.00,
+      "valid": 1,
+      "payment_type": 0,
+      "update_time": null,
+      "create_id": null,
+      "payment_id": 467,
+      "payment_no": "FK0000001095",
+      "id": 551,
+      "sub_payment_no": "DK0000000753",
+      "status": 0
+    }
+  ],
+  "payment": [
+    {
+      "name":"ddfd",
+      "update_id": null,
+      "order_no": "OR00000757",
+      "create_time": null,
+      "remark": null,
+      "buyer_enterprise_name": "深粮",
+      "order_name": "ZY-兰圣-深粮-良顺通39000-10000吨-20171110",
+      "valid": 1,
+      "update_time": null,
+      "good_rights_type": 1,
+      "create_id": null,
+      "seller_enterprise_name": "佳木斯兰圣",
+      "price": 9477000.00,
+      "payment_no": "FK0000001095",
+      "buyer_enterprise_id": 23,
+      "id": 467,
+      "order_id": 309,
+      "order_type": 1,
+      "payment_date": "2017-11-24",
+      "seller_enterprise_id": 24,
+      "status": 2
+    }
+  ]
+}
